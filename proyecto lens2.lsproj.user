@@ -1,0 +1,838 @@
+{
+    "InspectorUiComponent": {
+        "collapsedList": [
+            []
+        ]
+    },
+    "MapUiComponent": {},
+    "Material::UiComponent": {
+        "active_graph_asset": "1675075688128331:10075"
+    },
+    "MetaInfoUIComponent": {},
+    "ObjectTracking3DUIComponent": {
+        "foldedOwnerSceneObjects": []
+    },
+    "PreviewUiComponent": {},
+    "ResourceUiComponent": {
+        "collapsedList": [
+            [
+                [
+                    "3D Resources"
+                ],
+                [
+                    "3D Resources",
+                    "Materials"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "Occluder"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "clear_glass_material"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "frame_mtl"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "frame_red_material"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "glass_material 2"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "glass_mtl"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "lambert1"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "metal_frame_material"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "metal_material"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "pad_materia"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "plastic_frame_material"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "shadow_materia"
+                ],
+                [
+                    "3D Resources",
+                    "Materials",
+                    "shadow_material"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "Box"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "Face Mesh"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "Plane"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "brackets"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "bridges"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Materials"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Materials",
+                    "aiStandardSurface1"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Materials",
+                    "aiStandardSurface2"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Materials",
+                    "aiStandardSurface3"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Materials",
+                    "lambert4"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes",
+                    "frame"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes",
+                    "glass"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes",
+                    "metal"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes",
+                    "shadow"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes_1"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes_1",
+                    "frame"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes_1",
+                    "glass"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes_1",
+                    "metal"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "Meshes_1",
+                    "shadow"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses",
+                    "glasses"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes",
+                    "glass"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes",
+                    "metal_frame"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes",
+                    "nose_pads"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes",
+                    "plastic__frame"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses 2",
+                    "Meshes",
+                    "shadow"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses_2"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses_bridge"
+                ],
+                [
+                    "3D Resources",
+                    "Meshes",
+                    "glasses_thick"
+                ],
+                [
+                    "3D Resources",
+                    "Textures"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "Specular"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "glass_refl"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "glass_refl 2"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "glasses_diff"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "gold_refl"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "plastic_refl"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "Glasses 1",
+                    "shadow 2"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "frame_diff"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "glass_diff"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "glasses_rim_mask"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "glassses_dark 2"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "shadow"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "simple_glass"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "simple_metal"
+                ],
+                [
+                    "3D Resources",
+                    "Textures",
+                    "simple_red"
+                ],
+                [
+                    "43572"
+                ],
+                [
+                    "Glasses Removal"
+                ],
+                [
+                    "Image Carousel"
+                ],
+                [
+                    "Render Targets"
+                ],
+                [
+                    "Render Targets",
+                    "3D"
+                ],
+                [
+                    "Render Targets",
+                    "Device Camera Texture"
+                ],
+                [
+                    "Render Targets",
+                    "Face Effects"
+                ],
+                [
+                    "Render Targets",
+                    "UI"
+                ],
+                [
+                    "Resources"
+                ],
+                [
+                    "Resources",
+                    "Materials"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "BGTryOn"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "BGVisualisation"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "DirectionalBlurH 2"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "DirectionalBlurV 2"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "Hand Segmentation"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "LeftRightMask"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "Smoothing"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "Transparent"
+                ],
+                [
+                    "Resources",
+                    "Materials",
+                    "blush_base"
+                ],
+                [
+                    "Resources",
+                    "Physics Root World Settings"
+                ],
+                [
+                    "Resources",
+                    "Textures"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Atlases"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Atlases",
+                    "Hint_Find_Face"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Atlases",
+                    "V01_config"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Background"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "ColorCorrection"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "FE"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "FE",
+                    "blush_optim_v10_NoLashes"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "FE",
+                    "eyecolor"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Hand Segmentation"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Icons"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Icons",
+                    "Icon 1"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Icons",
+                    "Icon 2"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Icons",
+                    "Icon 3"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Logo"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Mask"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Portrait Background Segmentation"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Resources",
+                    "Textures",
+                    "White"
+                ],
+                [
+                    "Scripts"
+                ],
+                [
+                    "Scripts",
+                    "EffectsSetup"
+                ],
+                [
+                    "Scripts",
+                    "Tween"
+                ],
+                [
+                    "Scripts",
+                    "TweenManager"
+                ],
+                [
+                    "Scripts",
+                    "UI"
+                ],
+                [
+                    "Scripts",
+                    "UI",
+                    "CustomHint"
+                ],
+                [
+                    "Scripts",
+                    "VisualisationAndTryOn"
+                ],
+                [
+                    "Scripts",
+                    "VisualisationAndTryOn",
+                    "IdleRotationAndTouchInteraction"
+                ],
+                [
+                    "Scripts",
+                    "VisualisationAndTryOn",
+                    "SetActiveItem"
+                ],
+                [
+                    "Scripts",
+                    "VisualisationAndTryOn",
+                    "TrueSize"
+                ],
+                [
+                    "Scripts",
+                    "VisualisationAndTryOn",
+                    "VisualisationAndTryOn"
+                ],
+                [
+                    "Textures"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture"
+                ],
+                [
+                    "Textures",
+                    "Screen Texture 2"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Materials"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Materials",
+                    "Cristal"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Materials",
+                    "Pasta"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Meshes"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Meshes",
+                    "defaultMaterial"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Meshes",
+                    "defaultMaterial 2"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "1"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "10"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "13"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "3"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "6"
+                ],
+                [
+                    "gafas_proteccion",
+                    "Textures",
+                    "8"
+                ],
+                [
+                    "gafas_proteccion",
+                    "gafas_proteccion"
+                ]
+            ]
+        ]
+    },
+    "SceneTreeUiComponent": {
+        "collapsedList": [
+            [
+                "101:100",
+                "1592215678767189:90311",
+                "1651249073766556:2296762",
+                "1651249073767577:2296764",
+                "1651249073771983:2296779",
+                "1651250422985386:2775911",
+                "1651250422986537:2775913",
+                "1651250422987756:2775915",
+                "1651250422991432:2775922",
+                "1651250422993756:2775929",
+                "1651250423006109:2775936",
+                "1651250423007633:2775938",
+                "1651250423022610:2776008",
+                "1651250423036284:2776074",
+                "1651250423049014:2776144",
+                "1651250423061351:2776210",
+                "1651251250508533:3106721",
+                "1651251256303311:3113893",
+                "1651251256341189:3114051",
+                "1651579260881089:874806",
+                "1652968452355659:25317",
+                "1652968452413965:25467",
+                "1652970825610202:1150830",
+                "1652970825669978:1150899",
+                "1652970825671803:1150901",
+                "1652971127275553:1328018",
+                "1652971261800646:1408813",
+                "1675075688030368:10013",
+                "1675075833807476:23049",
+                "1675079318261176:278721",
+                "1675080574152386:613527",
+                "1675082512681947:801528",
+                "1675082549955165:809101",
+                "1675082549980645:809582",
+                "1675097534765813:857472",
+                "1675097534794996:857519",
+                "1675098003590900:902621",
+                "1675257128150042:389786",
+                "1675257128173382:390055",
+                "1675269384562345:1372386",
+                "1675271090617013:1762270",
+                "1675271090631194:1762398",
+                "1675340555944250:303162",
+                "1675340555957180:303399",
+                "1675347919973748:279254",
+                "1675347941342220:286185",
+                "1675347970195382:290875",
+                "1675354104521570:493744",
+                "1676022465261367:220742",
+                "1676474272291832:107121",
+                "1676474315414898:116224",
+                "1676474315415459:116226",
+                "1676474315415958:116228",
+                "1676474315417276:116241",
+                "1676474315419326:116256",
+                "1676474315421295:116269",
+                "1684238308905879:3037852",
+                "1684247414635655:5789944",
+                "1684247414638185:5789946",
+                "1684247414639105:5789948",
+                "1684247414642257:5789961",
+                "1684247414645377:5789974",
+                "1684247414648786:5789987",
+                "1684247414651804:5790000",
+                "1684659491085387:471958",
+                "1684927774068522:122543",
+                "1685265967457124:65219",
+                "1685265967457979:65222",
+                "1685265967460005:65235",
+                "1685265967461913:65248",
+                "1685265967463680:65261",
+                "1685265967465648:65274",
+                "1685265967467731:65287",
+                "1689754874729559:1199622",
+                "1690710720115688:155398",
+                "1690722094721408:612555",
+                "1690722094723599:612557",
+                "1690722094724189:612559",
+                "1690722094725640:612572",
+                "1690722094726957:612585",
+                "1690722094728278:612598",
+                "1690722094729779:612611",
+                "1690722094731079:612624",
+                "1690723631202657:1222559",
+                "1746515161259358:131001",
+                "1746515436525215:183620",
+                "1746515436552424:183706",
+                "1746515436574878:183774",
+                "1746515524383024:205525"
+            ]
+        ],
+        "selectionSetList": {}
+    },
+    "Script::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "VFX::UiComponent": {
+        "active_graph_asset": "-1:-1"
+    },
+    "IFileManager": {},
+    "IResourceManager": {},
+    "InspectorComponent": {},
+    "LayerComponent": {},
+    "RemoteApi::ModelManager": {},
+    "RenderOrderComponent": {},
+    "WorldComponent": {},
+    "AssetImportController": {},
+    "Compression::IController": {},
+    "DigitalGoodsController": {},
+    "IResourceController": {
+        "sourcePaths": {
+            "1686707244333214:225404": "/Users/orykhliuk/Desktop/Glasses Removal.lsc",
+            "1686707244334970:225406": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1686707244341195:225422": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1686707244388459:225486": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1686707244395049:225496": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1686707244404431:225506": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1686707244430433:225537": "/Users/orykhliuk/Library/Caches/Snap/Lens Studio/temp/StudioSIviGbyeCuPZ//system//emergencyFiles/emergencyJs.js",
+            "1689752931486505:324008": "/Users/gsasson/Library/Caches/Snap/Lens Studio/temp/StudioREppqPYPlePG//system//emergencyFiles/emergencyJs.js",
+            "1746514716608983:42387": "D:/Documentos/Downloads/43572.jpg",
+            "1746514901230102:83253": "D:/Documentos/Downloads/gafas_proteccion.glb",
+            "1746514903041640:83566": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyMesh.mesh",
+            "1746514903173992:83613": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyMesh.mesh",
+            "1746514903371001:83673": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg",
+            "1746514903923206:83734": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg",
+            "1746514904258135:83772": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg",
+            "1746514904657652:83810": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg",
+            "1746514905002279:83850": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg",
+            "1746514905402190:83888": "C:/Users/WIN/AppData/Local/Snap/Lens Studio/cache/temp/StudioPydmkbEnhhtj//system//emergencyFiles/emergencyJpg.jpg"
+        }
+    },
+    "InspectorController": {
+        "selection": null
+    },
+    "ObjectPrefabController": {},
+    "ObjectTracking3DController": {},
+    "ScriptModulesController": {}
+}
